@@ -1,0 +1,6 @@
+tariff,fixed_cost,free_minutes,peak_rate,offpeak_rate,weekend_rate,international_rate,voicemail,SMS
+Play 100,9.99,100,25,5,5,40,25,15
+Play 300,12.99,300,25,2,2,40,15,15
+CAT 50,13.9,50,15,5,5,30,10,15
+CAT 100,17.5,100,15,5,5,30,10,15
+CAT 200,25,200,10,5,5,30,10,15
